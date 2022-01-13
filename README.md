@@ -1,2 +1,2 @@
 # Immerse
-Immerse in everything web3. Storage, Modeling, and Compute
+Immerse in everything web3. Create Wallet, Storage, Modeling, and Compute
